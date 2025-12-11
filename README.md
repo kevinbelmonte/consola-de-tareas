@@ -2,7 +2,6 @@
 
 Aplicación simple de lista de tareas manejada desde la terminal.  
 Permite agregar tareas y ver las tareas almacenadas durante la ejecución del programa.  
-Proyecto ideal para prácticas iniciales de Python (listas, ciclos y condicionales).
 
 ---
 
